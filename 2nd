@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy 2nd Anniversary!</title>
+    <style>
+        body {
+            background-color: #f9f9f9;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #ff69b4;
+            animation: fadeIn 2s;
+        }
+
+        p {
+            font-size: 20px;
+            color: #333;
+            animation: slideIn 2s;
+        }
+
+        img {
+            width: 300px;
+            height: auto;
+            border-radius: 15px;
+            margin: 20px 0;
+            animation: zoomIn 2s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        @keyframes zoomIn {
+            from { transform: scale(0); }
+            to { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Happy 2nd Anniversary, My Love!</h1>
+    <img src="1730825076403.jpg" alt="Our Special Moment">
+    <p>Two years of love, laughter, and unforgettable memories. I cherish every moment with you!</p>
+    <p>Here's to many more beautiful years together!</p>
+    <p>Happy 2nd Anniversary to the woman who stole my heart and captured my soul. You've been my constant, my support, and my best friend. Thank you for being the incredible woman you are.</p>
+    <p>Happy 2nd Anniversary to the love of my life. I'm so grateful for every moment we've shared. You make every day brighter and more beautiful. I love you more than ever.</p>
+    <p>Two years of laughter, love, and a little bit of crazy. Here's to many more years of adventures and unforgettable memories. Happy Anniversary, my partner in crime!</p>
+    <p>Happy 2nd Anniversary to my favorite person in the world! I still can't believe I get to call you mine. Let's celebrate another year of love and silliness. I love you to the moon and back.</p>
+
+</body>
+</html>
